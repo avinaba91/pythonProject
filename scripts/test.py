@@ -1,6 +1,4 @@
-import os
-import sys
 
-for i in range(0, 10):
-    print(i)
-    print("avinaba")
+s = "123456"
+
+print(s[6:])
